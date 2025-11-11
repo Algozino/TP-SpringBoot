@@ -50,18 +50,20 @@ Puedes hacerlo de dos maneras:
 
 ## 📸 Capturas de Pantalla de Ejecución
 
-Aquí debes pegar las capturas de pantalla de la consola para ambos perfiles.
-
 ### Ejecución con Perfil `dev` (default)
 
-*(Pega tu captura de pantalla de la consola aquí)*
+*<img width="2305" height="982" alt="image" src="https://github.com/user-attachments/assets/5abfdac0-32bb-4ae1-ae47-692975365d40" />*
+*<img width="2292" height="659" alt="image" src="https://github.com/user-attachments/assets/6eca7091-544c-4e9e-ace8-bf779305e828" />*
+
 *Se observan los mensajes detallados de bienvenida/despedida.*
 *El límite de tareas es 10.*
 *Las estadísticas se muestran.*
 
 ### Ejecución con Perfil `prod`
 
-*(Pega tu captura de pantalla de la consola aquí)*
+*<img width="2307" height="1040" alt="image" src="https://github.com/user-attachments/assets/ca431118-e021-424e-ba88-a6079a70a50d" />*
+*<img width="2295" height="395" alt="image" src="https://github.com/user-attachments/assets/6d2d5490-8a5c-4c8a-b3db-789bb076d3ea" />*
+
 *Se observan los mensajes concisos de producción.*
 *El límite de tareas es 1000.*
 *Las estadísticas indican "Estadísticas deshabilitadas."*
